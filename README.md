@@ -1,3 +1,2 @@
-# Demo
-hi jay 
-how are you
+j = [1,2,3,4]
+print(j)
